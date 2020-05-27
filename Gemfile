@@ -21,9 +21,6 @@ gem 'jbuilder', '~> 2.7'
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '~> 3.1'
 # Use Active Storage variant
-gem "activesupport", ">= 6.0.3.1"
-gem "actionpack", ">= 6.0.3.1"
-gem "activestorage", ">= 6.0.3.1"
 # gem 'image_processing', '~> 1.2'
 
 # Reduces boot times through caching; required in config/boot.rb
